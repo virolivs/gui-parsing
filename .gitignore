@@ -1,0 +1,7 @@
+
+# weights/models
+OmniParser/weights/
+*.safetensors
+*.pt
+*.pth
+*.onnx
